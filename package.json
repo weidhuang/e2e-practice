@@ -1,0 +1,12 @@
+{
+  "name": "e2e",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chromedriver": "^85.0.1",
+    "nightwatch": "^1.4.2",
+    "nightwatch-api": "^3.0.1",
+    "node-excel-to-json": "^0.0.3"
+  }
+}
